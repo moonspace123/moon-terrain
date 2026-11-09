@@ -1,0 +1,1087 @@
+{
+  "designVersion": "eight-families-three-levels-1",
+  "repositoryCommit": "a63a83e8a976663565408467955a0fb3f924c77d",
+  "empiricalDifficultyValidated": false,
+  "scenes": [
+    {
+      "id": "barrier_a0",
+      "family": "barrier",
+      "familyName": "巨石屏障",
+      "level": 0,
+      "levelName": "一级 · 基础",
+      "primaryStrength": 1.0,
+      "secondaryFieldCoefficientM": 0.0,
+      "designSeed": 23,
+      "cosmeticSeed": 20261108,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        0,
+        -80
+      ],
+      "nativeGridSpacingM": 2.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        0.0,
+        0.021679554975016446,
+        8.0
+      ],
+      "routeXZSha256": "fec0bb815230cafc9a8deacf28f7d4e77730efa04d448b10021d25c0d7483c0c",
+      "comparisonFocus": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        7.33740261124313,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        -0.1405480071724159,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.0. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 1
+    },
+    {
+      "id": "barrier_a1",
+      "family": "barrier",
+      "familyName": "巨石屏障",
+      "level": 1,
+      "levelName": "二级 · 增强",
+      "primaryStrength": 1.5,
+      "secondaryFieldCoefficientM": 0.0,
+      "designSeed": 23,
+      "cosmeticSeed": 20261108,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        0,
+        -80
+      ],
+      "nativeGridSpacingM": 2.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        0.0,
+        0.021679554975016446,
+        8.0
+      ],
+      "routeXZSha256": "fec0bb815230cafc9a8deacf28f7d4e77730efa04d448b10021d25c0d7483c0c",
+      "comparisonFocus": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        7.33740261124313,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        -0.1405480071724159,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.5. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 1
+    },
+    {
+      "id": "barrier_a2",
+      "family": "barrier",
+      "familyName": "巨石屏障",
+      "level": 2,
+      "levelName": "三级 · 复合",
+      "primaryStrength": 1.5,
+      "secondaryFieldCoefficientM": 0.0,
+      "designSeed": 23,
+      "cosmeticSeed": 20261108,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        0,
+        -80
+      ],
+      "nativeGridSpacingM": 2.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        0.0,
+        0.021679554975016446,
+        8.0
+      ],
+      "routeXZSha256": "fec0bb815230cafc9a8deacf28f7d4e77730efa04d448b10021d25c0d7483c0c",
+      "comparisonFocus": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        7.33740261124313,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        -0.1405480071724159,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.5. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 2
+    },
+    {
+      "id": "trench_a0",
+      "family": "trench",
+      "familyName": "连续沟槽",
+      "level": 0,
+      "levelName": "一级 · 基础",
+      "primaryStrength": 1.0,
+      "secondaryFieldCoefficientM": 0.0,
+      "designSeed": 23,
+      "cosmeticSeed": 20261109,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        1000,
+        0
+      ],
+      "nativeGridSpacingM": 8.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        17.0,
+        0.6301207702919849,
+        8.0
+      ],
+      "routeXZSha256": "6c9ea2f175f2cb822d5ec6c6fd3c01544e933e8c614dafbef02d6751f4a8e5ed",
+      "comparisonFocus": [
+        0.0,
+        -2.369856384651051,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        8.31322186593396,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        -2.3373977960573806,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.0. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    },
+    {
+      "id": "trench_a1",
+      "family": "trench",
+      "familyName": "连续沟槽",
+      "level": 1,
+      "levelName": "二级 · 增强",
+      "primaryStrength": 1.5,
+      "secondaryFieldCoefficientM": 0.0,
+      "designSeed": 23,
+      "cosmeticSeed": 20261109,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        1000,
+        0
+      ],
+      "nativeGridSpacingM": 8.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        17.0,
+        0.6301207702919849,
+        8.0
+      ],
+      "routeXZSha256": "6c9ea2f175f2cb822d5ec6c6fd3c01544e933e8c614dafbef02d6751f4a8e5ed",
+      "comparisonFocus": [
+        0.0,
+        -2.369856384651051,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        8.31322186593396,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        -2.3373977960573806,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.5. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    },
+    {
+      "id": "trench_a2",
+      "family": "trench",
+      "familyName": "连续沟槽",
+      "level": 2,
+      "levelName": "三级 · 复合",
+      "primaryStrength": 1.5,
+      "secondaryFieldCoefficientM": 0.48,
+      "designSeed": 23,
+      "cosmeticSeed": 20261109,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        1000,
+        0
+      ],
+      "nativeGridSpacingM": 8.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        17.0,
+        0.5174910289492991,
+        8.0
+      ],
+      "routeXZSha256": "6c9ea2f175f2cb822d5ec6c6fd3c01544e933e8c614dafbef02d6751f4a8e5ed",
+      "comparisonFocus": [
+        0.0,
+        -2.369856384651051,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        8.31322186593396,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        -2.3373977960573806,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.5. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    },
+    {
+      "id": "stairs_up_a0",
+      "family": "stairs_up",
+      "familyName": "上行阶地",
+      "level": 0,
+      "levelName": "一级 · 基础",
+      "primaryStrength": 1.0,
+      "secondaryFieldCoefficientM": 0.0,
+      "designSeed": 23,
+      "cosmeticSeed": 20261110,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        80,
+        -160
+      ],
+      "nativeGridSpacingM": 2.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        18.0,
+        3.6455708654681036,
+        18.0
+      ],
+      "routeXZSha256": "8a9fb190b0a0b9e384a890f8512498d89b653d61f4ffcbde0d5e709e4cdf0b42",
+      "comparisonFocus": [
+        0.0,
+        1.7194265736186178,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        7.890152491204026,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        2.848331844819293,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.0. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    },
+    {
+      "id": "stairs_up_a1",
+      "family": "stairs_up",
+      "familyName": "上行阶地",
+      "level": 1,
+      "levelName": "二级 · 增强",
+      "primaryStrength": 1.5,
+      "secondaryFieldCoefficientM": 0.0,
+      "designSeed": 23,
+      "cosmeticSeed": 20261110,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        80,
+        -160
+      ],
+      "nativeGridSpacingM": 2.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        18.0,
+        5.121891091940163,
+        18.0
+      ],
+      "routeXZSha256": "8a9fb190b0a0b9e384a890f8512498d89b653d61f4ffcbde0d5e709e4cdf0b42",
+      "comparisonFocus": [
+        0.0,
+        1.7194265736186178,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        7.890152491204026,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        2.848331844819293,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.5. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    },
+    {
+      "id": "stairs_up_a2",
+      "family": "stairs_up",
+      "familyName": "上行阶地",
+      "level": 2,
+      "levelName": "三级 · 复合",
+      "primaryStrength": 1.5,
+      "secondaryFieldCoefficientM": 0.48,
+      "designSeed": 23,
+      "cosmeticSeed": 20261110,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        80,
+        -160
+      ],
+      "nativeGridSpacingM": 2.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        18.0,
+        5.257382183561465,
+        18.0
+      ],
+      "routeXZSha256": "8a9fb190b0a0b9e384a890f8512498d89b653d61f4ffcbde0d5e709e4cdf0b42",
+      "comparisonFocus": [
+        0.0,
+        1.7194265736186178,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        7.890152491204026,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        2.848331844819293,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.5. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    },
+    {
+      "id": "pit_a0",
+      "family": "pit",
+      "familyName": "局部凹坑",
+      "level": 0,
+      "levelName": "一级 · 基础",
+      "primaryStrength": 1.0,
+      "secondaryFieldCoefficientM": 0.0,
+      "designSeed": 23,
+      "cosmeticSeed": 20261111,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        0,
+        0
+      ],
+      "nativeGridSpacingM": 2.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        17.0,
+        -0.5766989843897545,
+        -2.0
+      ],
+      "routeXZSha256": "0450254234d9dc27c8e8e8971f41166ee12383ff290e644115fe4511c90b79f1",
+      "comparisonFocus": [
+        0.0,
+        -2.049998574786878,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        7.825787475032394,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        -1.4824006529488492,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.0. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    },
+    {
+      "id": "pit_a1",
+      "family": "pit",
+      "familyName": "局部凹坑",
+      "level": 1,
+      "levelName": "二级 · 增强",
+      "primaryStrength": 1.5,
+      "secondaryFieldCoefficientM": 0.0,
+      "designSeed": 23,
+      "cosmeticSeed": 20261111,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        0,
+        0
+      ],
+      "nativeGridSpacingM": 2.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        17.0,
+        -0.5766862956260708,
+        -2.0
+      ],
+      "routeXZSha256": "0450254234d9dc27c8e8e8971f41166ee12383ff290e644115fe4511c90b79f1",
+      "comparisonFocus": [
+        0.0,
+        -2.049998574786878,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        7.825787475032394,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        -1.4824006529488492,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.5. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    },
+    {
+      "id": "pit_a2",
+      "family": "pit",
+      "familyName": "局部凹坑",
+      "level": 2,
+      "levelName": "三级 · 复合",
+      "primaryStrength": 1.5,
+      "secondaryFieldCoefficientM": 0.48,
+      "designSeed": 23,
+      "cosmeticSeed": 20261111,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        0,
+        0
+      ],
+      "nativeGridSpacingM": 2.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        17.0,
+        -0.47186067207554644,
+        -2.0
+      ],
+      "routeXZSha256": "0450254234d9dc27c8e8e8971f41166ee12383ff290e644115fe4511c90b79f1",
+      "comparisonFocus": [
+        0.0,
+        -2.049998574786878,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        7.825787475032394,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        -1.4824006529488492,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.5. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    },
+    {
+      "id": "basin_a0",
+      "family": "basin",
+      "familyName": "宽阔凹地",
+      "level": 0,
+      "levelName": "一级 · 基础",
+      "primaryStrength": 1.0,
+      "secondaryFieldCoefficientM": 0.0,
+      "designSeed": 23,
+      "cosmeticSeed": 20261112,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        -600,
+        -300
+      ],
+      "nativeGridSpacingM": 4.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        25.0,
+        0.009557782359464306,
+        10.0
+      ],
+      "routeXZSha256": "a282f5b4b2c878af8162c5a2cefdf951537bf7d667832d77d56999118abeca27",
+      "comparisonFocus": [
+        0.0,
+        -3.2,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        8.17714089157858,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        -2.99777048002514,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.0. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    },
+    {
+      "id": "basin_a1",
+      "family": "basin",
+      "familyName": "宽阔凹地",
+      "level": 1,
+      "levelName": "二级 · 增强",
+      "primaryStrength": 1.5,
+      "secondaryFieldCoefficientM": 0.0,
+      "designSeed": 23,
+      "cosmeticSeed": 20261112,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        -600,
+        -300
+      ],
+      "nativeGridSpacingM": 4.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        25.0,
+        -0.24637864596336673,
+        10.0
+      ],
+      "routeXZSha256": "a282f5b4b2c878af8162c5a2cefdf951537bf7d667832d77d56999118abeca27",
+      "comparisonFocus": [
+        0.0,
+        -3.2,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        8.17714089157858,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        -2.99777048002514,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.5. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    },
+    {
+      "id": "basin_a2",
+      "family": "basin",
+      "familyName": "宽阔凹地",
+      "level": 2,
+      "levelName": "三级 · 复合",
+      "primaryStrength": 1.5,
+      "secondaryFieldCoefficientM": 0.48,
+      "designSeed": 23,
+      "cosmeticSeed": 20261112,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        -600,
+        -300
+      ],
+      "nativeGridSpacingM": 4.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        25.0,
+        -0.29897013164932434,
+        10.0
+      ],
+      "routeXZSha256": "a282f5b4b2c878af8162c5a2cefdf951537bf7d667832d77d56999118abeca27",
+      "comparisonFocus": [
+        0.0,
+        -3.2,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        8.17714089157858,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        -2.99777048002514,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.5. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    },
+    {
+      "id": "waves_a0",
+      "family": "waves",
+      "familyName": "连续丘脊",
+      "level": 0,
+      "levelName": "一级 · 基础",
+      "primaryStrength": 1.0,
+      "secondaryFieldCoefficientM": 0.0,
+      "designSeed": 23,
+      "cosmeticSeed": 20261113,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        96,
+        -96
+      ],
+      "nativeGridSpacingM": 2.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        3.0,
+        2.2150655146874474,
+        32.0
+      ],
+      "routeXZSha256": "5e6d5ae522f4fc7b5b6580fbf5fc44b7ec18cee4a90d63a1eb14807039a45e99",
+      "comparisonFocus": [
+        0.0,
+        1.9881025315895955,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        10.289691929306233,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        2.5129460307985148,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.0. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    },
+    {
+      "id": "waves_a1",
+      "family": "waves",
+      "familyName": "连续丘脊",
+      "level": 1,
+      "levelName": "二级 · 增强",
+      "primaryStrength": 1.5,
+      "secondaryFieldCoefficientM": 0.0,
+      "designSeed": 23,
+      "cosmeticSeed": 20261113,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        96,
+        -96
+      ],
+      "nativeGridSpacingM": 2.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        3.0,
+        2.8956997014158423,
+        32.0
+      ],
+      "routeXZSha256": "5e6d5ae522f4fc7b5b6580fbf5fc44b7ec18cee4a90d63a1eb14807039a45e99",
+      "comparisonFocus": [
+        0.0,
+        1.9881025315895955,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        10.289691929306233,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        2.5129460307985148,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.5. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    },
+    {
+      "id": "waves_a2",
+      "family": "waves",
+      "familyName": "连续丘脊",
+      "level": 2,
+      "levelName": "三级 · 复合",
+      "primaryStrength": 1.5,
+      "secondaryFieldCoefficientM": 0.48,
+      "designSeed": 23,
+      "cosmeticSeed": 20261113,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        96,
+        -96
+      ],
+      "nativeGridSpacingM": 2.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        3.0,
+        2.8762555989758214,
+        32.0
+      ],
+      "routeXZSha256": "5e6d5ae522f4fc7b5b6580fbf5fc44b7ec18cee4a90d63a1eb14807039a45e99",
+      "comparisonFocus": [
+        0.0,
+        1.9881025315895955,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        10.289691929306233,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        2.5129460307985148,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.5. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    },
+    {
+      "id": "perlin_a0",
+      "family": "perlin",
+      "familyName": "平滑随机起伏",
+      "level": 0,
+      "levelName": "一级 · 基础",
+      "primaryStrength": 1.0,
+      "secondaryFieldCoefficientM": 0.0,
+      "designSeed": 23,
+      "cosmeticSeed": 20261114,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        160,
+        0
+      ],
+      "nativeGridSpacingM": 2.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        7.0,
+        -0.24394500117739032,
+        22.0
+      ],
+      "routeXZSha256": "52c62b0e23f1ece7cb35ed66aa52f237cc1f3b9abab90fc9c9aafe0e01ef7a8c",
+      "comparisonFocus": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        9.657149412091714,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        0.5759939957264393,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.0. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    },
+    {
+      "id": "perlin_a1",
+      "family": "perlin",
+      "familyName": "平滑随机起伏",
+      "level": 1,
+      "levelName": "二级 · 增强",
+      "primaryStrength": 1.5,
+      "secondaryFieldCoefficientM": 0.0,
+      "designSeed": 23,
+      "cosmeticSeed": 20261114,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        160,
+        0
+      ],
+      "nativeGridSpacingM": 2.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        7.0,
+        -0.46701785092641196,
+        22.0
+      ],
+      "routeXZSha256": "52c62b0e23f1ece7cb35ed66aa52f237cc1f3b9abab90fc9c9aafe0e01ef7a8c",
+      "comparisonFocus": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        9.657149412091714,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        0.5759939957264393,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.5. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    },
+    {
+      "id": "perlin_a2",
+      "family": "perlin",
+      "familyName": "平滑随机起伏",
+      "level": 2,
+      "levelName": "三级 · 复合",
+      "primaryStrength": 1.5,
+      "secondaryFieldCoefficientM": 0.48,
+      "designSeed": 23,
+      "cosmeticSeed": 20261114,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        160,
+        0
+      ],
+      "nativeGridSpacingM": 2.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        7.0,
+        -0.3942035019545505,
+        22.0
+      ],
+      "routeXZSha256": "52c62b0e23f1ece7cb35ed66aa52f237cc1f3b9abab90fc9c9aafe0e01ef7a8c",
+      "comparisonFocus": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        9.657149412091714,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        0.5759939957264393,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.5. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    },
+    {
+      "id": "perlin_rough_a0",
+      "family": "perlin_rough",
+      "familyName": "岩块与强起伏",
+      "level": 0,
+      "levelName": "一级 · 基础",
+      "primaryStrength": 1.0,
+      "secondaryFieldCoefficientM": 0.0,
+      "designSeed": 23,
+      "cosmeticSeed": 20261115,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        -96,
+        -96
+      ],
+      "nativeGridSpacingM": 2.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        13.0,
+        0.2829277148224877,
+        23.0
+      ],
+      "routeXZSha256": "08bbd5914eb29c5ae4f261552bfb5c8a1b82f0fe08b8d6ef0b9b1ac555778667",
+      "comparisonFocus": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        6.924937041853097,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        0.3864910649354265,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.0. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    },
+    {
+      "id": "perlin_rough_a1",
+      "family": "perlin_rough",
+      "familyName": "岩块与强起伏",
+      "level": 1,
+      "levelName": "二级 · 增强",
+      "primaryStrength": 1.5,
+      "secondaryFieldCoefficientM": 0.0,
+      "designSeed": 23,
+      "cosmeticSeed": 20261115,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        -96,
+        -96
+      ],
+      "nativeGridSpacingM": 2.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        13.0,
+        0.16083972897602755,
+        23.0
+      ],
+      "routeXZSha256": "08bbd5914eb29c5ae4f261552bfb5c8a1b82f0fe08b8d6ef0b9b1ac555778667",
+      "comparisonFocus": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        6.924937041853097,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        0.3864910649354265,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.5. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    },
+    {
+      "id": "perlin_rough_a2",
+      "family": "perlin_rough",
+      "familyName": "岩块与强起伏",
+      "level": 2,
+      "levelName": "三级 · 复合",
+      "primaryStrength": 1.5,
+      "secondaryFieldCoefficientM": 0.48,
+      "designSeed": 23,
+      "cosmeticSeed": 20261115,
+      "secondarySeeds": [
+        23,
+        67
+      ],
+      "sourceOrigin": [
+        -96,
+        -96
+      ],
+      "nativeGridSpacingM": 2.0,
+      "eyeHeight": 0.65,
+      "targetRadius": 0.26,
+      "targetPosition": [
+        13.0,
+        0.14274901659488248,
+        23.0
+      ],
+      "routeXZSha256": "08bbd5914eb29c5ae4f261552bfb5c8a1b82f0fe08b8d6ef0b9b1ac555778667",
+      "comparisonFocus": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "comparisonBankPosition": [
+        22.0,
+        6.924937041853097,
+        -29.0
+      ],
+      "comparisonBankFocus": [
+        0.0,
+        0.3864910649354265,
+        4.0
+      ],
+      "provenance": "Preserved DEM-relative macro elevations. Synthetic primary relief strength 1.5. Same source crop, fixed shared horizontal route, target x/z and grounding rule, camera, light, decorative rock layout and seed across all three. Unity scale adaptation of LunarBench V4; no empirical difficulty claim.",
+      "primaryRockCount": 0
+    }
+  ]
+}

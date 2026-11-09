@@ -1,0 +1,24 @@
+{
+  "status": "EIGHT_FAMILIES_THREE_LEVELS_DELIVERED",
+  "scenes": 24,
+  "families": 8,
+  "designLevels": [
+    "基础",
+    "增强",
+    "复合"
+  ],
+  "unityStatus": "UNITY_TWENTY_FOUR_LEVEL_SCENES_PASS",
+  "windowsStatus": "WINDOWS_TWENTY_FOUR_LEVEL_SCENES_PASS",
+  "visibleInterfaceScreenshots": 24,
+  "originalAssetFilesPreserved": 667,
+  "portableGeneratorMatchedFiles": 49,
+  "sameOverviewAndNearCameras": true,
+  "sameHorizontalRouteWithinFamily": true,
+  "nativeMouseKeyboardInteractionTested": false,
+  "robotWalkingTested": false,
+  "MuJoCoTested": false,
+  "empiricalDifficultyCalibrated": false,
+  "unityVersion": "2022.3.62f3c1",
+  "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "comparisonHtmlLocalLinksChecked": 144
+}

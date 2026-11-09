@@ -2,6 +2,31 @@
 
 以真实月球 DEM 为基础，分层补充近景细节、岩石和表面材质，用于地形资产展示与后续实验场地筛选。
 
+## 八类地形 × 三级 Unity 演示 v0.4.0
+
+新增 **8 类 × 3 级，共 24 个场景**：石障、沟壑、上行阶梯、局部坑、盆地、波状起伏、Perlin 起伏、粗糙 Perlin。三级称为**基础、增强、复合**，用于比较形态和遮挡变化，尚未经过机器人或模型的经验难度标定。
+
+**[下载工具包（Windows）](https://github.com/moonspace123/moon-terrain/releases/download/v0.4.0/Lunar_Terrain_Download_Tools_v0.4.0.zip)** · **[版本页面](https://github.com/moonspace123/moon-terrain/releases/tag/v0.4.0)** · **[详细打开步骤](docs/terrain-three-levels.md)**
+
+完整解压下载工具包，然后选择：
+
+| 使用方式 | 双击命令 | 下载内容 |
+| --- | --- | --- |
+| 在 Unity 中打开和编辑 | `Download_Unity.cmd` | 工程和配套资源，合计约 2.52 GB |
+| Windows 直接看效果 | `Download_Windows_Demo.cmd` | 独立演示，约 0.72 GB |
+
+工具会下载小分段，逐段校验、合并为普通 ZIP 并解压。中断后可再次运行，复用已校验分段；需要互联网，不需要安装 Python、Git 或登录 GitHub。
+
+Unity 使用 **2022.3.62f3c1**。在 Hub 添加工具包内的 `Ready/Extracted_Unity/Lunar_Terrain_Three_Levels/UnityProject`，等待导入，打开 `Assets/LevelScenes/occlusion_levels_trench_a0.unity` 并播放。Windows 演示在 `Ready/Extracted_Windows/Lunar_Terrain_Three_Levels/Open_Demo.cmd`。
+
+![八类三级总览，Unity 实机渲染](docs/images/terrain_three_levels_overview.jpg)
+
+- 保留真实 DEM 大尺度背景；同一类三级共用水平路线、目标落地规则、光照和比较相机。增强级提高主人工形态幅度，复合级加入温和次级起伏；石障类加入第二块主要遮挡岩石。
+- 包含源资产、旧场景、脚本、`.meta`、`Packages`、`ProjectSettings`；[生成与检查源码](unity/three-levels/)可在仓库浏览。完整模型、贴图与程序在 Release 分段附件中，GitHub 自动生成的 Source code ZIP 不含这些大资产。
+- 24 场景的 Unity Play Mode 和 Windows 实际运行检查通过，包括 GPU 可见性、画面与场景切换。未执行逐按钮鼠标点击、机器人行走、MuJoCo、VLM 或 RSR@K；目前为相机路线演示。
+
+v0.3.0、v0.2.0、v0.1.0 的下载和说明继续保留在下方。
+
 ## 完整 Unity 地形工程 v0.3.0
 
 **[下载完整可编辑 Unity 工程](https://github.com/moonspace123/moon-terrain/releases/download/v0.3.0/Lunar_Unity_Project_v0.3.0.zip)** · **[版本说明、校验文件与验证报告](https://github.com/moonspace123/moon-terrain/releases/tag/v0.3.0)**
